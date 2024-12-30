@@ -1,7 +1,8 @@
 # theme
-theme = Kanagawa Wave
+theme = kanagawabones
 background = 000000
 background-opacity = 0.4
+palette = 8=838371
 
 # text theme
 cursor-style = block
