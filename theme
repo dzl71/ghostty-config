@@ -1,0 +1,12 @@
+# theme
+theme = Kanagawa Wave
+background = 000000
+background-opacity = 0.4
+
+# text theme
+cursor-style = block
+selection-invert-fg-bg
+cursor-invert-fg-bg
+
+# window theme
+window-decoration = false
